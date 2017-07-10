@@ -1,4 +1,4 @@
-# Voice_Recognition tool
+# Voice_Recognition tool (pocketsphinx)
 
 Voice recognition tool to control a vehicle(or just a simulation).
 
