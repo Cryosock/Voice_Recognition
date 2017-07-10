@@ -13,4 +13,4 @@ To control/test the simulation:
 3) Open terminal and run "python Cliente.py"
 4) Check Data/simulacao/Simulacao_Keyphrase.list to see the commands available to control the simulation
 
-%VD%
+Cryoshock
