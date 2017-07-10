@@ -1,0 +1,6 @@
+rotate right
+rotate left
+move forward
+stop moving
+stop listening
+walk and rotate
